@@ -23,4 +23,6 @@ Setp 3. Run (in terminal) and get the d3-custom.js (in the folder):
 make lib.js
 ```
 
-Reference: [mbostock/smash](https://github.com/mbostock/smash/wiki)
+Reference: 
+- [mbostock/smash](https://github.com/mbostock/smash/wiki) (current example)
+- [d3/d3-bundler](https://github.com/d3/d3-bundler) (for es6)
